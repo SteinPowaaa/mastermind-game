@@ -17,3 +17,9 @@ Check the full description of the game: [Mastermind](https://en.wikipedia.org/wi
 
 > Solution must be 4 chars - one of - P(Purple), G(Green), Y(Yellow), O(Orange)
 > To change available colors goto -> mastermind/models and edit sequence_validator
+
+# Tests
+
+```sh
+$ py.test
+```
